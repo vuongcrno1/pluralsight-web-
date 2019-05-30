@@ -1,0 +1,46 @@
+.vuong{
+    font-style: italic;
+    color: green;
+}
+#ps-container{
+    max-width: 1600px;
+    min-width: 1024px;
+}
+#ps-chrome{
+    margin: 0 auto;
+    max-width: 1600px;
+    position: relative;
+}
+.root---2aZJk{
+    position: absolute;
+    top: 0;
+    height: 100vh;
+    width: 100%;
+}
+.root---u5wpL{
+    padding-left: 60px;
+    position: fixed;
+    top: 0;
+    left: 0;
+
+}
+.input---VV7Gt {
+    height: 100%;
+    width: calc(100% - 24px + 10px * 2 + 6px);
+    padding: 0 10px 0 44px;
+    line-height: 36px;
+    outline: none;
+    font-size: 14px;
+    background-color: #363636;
+    border: none;
+    border-radius: 2px;
+    font-family: Gotham SSm A,Gotham SSm B,sans-serif;
+    -webkit-appearance: none;
+}
+.root---16-ZO {
+    display: block;
+    position: relative;
+    margin-left: 12px;
+    height: 36px;
+    width: 455px;
+}
